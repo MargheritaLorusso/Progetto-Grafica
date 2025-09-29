@@ -1,0 +1,14 @@
+.meals-wrapper {
+    max-width: 999px;
+    margin: 2rem auto 2rem auto;
+    background: #fff;
+    border-radius: 1rem;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+    padding: 1.5rem 0;
+    min-height: 300px;
+  }
+  
+  .meals-list {
+    padding: 0 2rem;
+  }
+  

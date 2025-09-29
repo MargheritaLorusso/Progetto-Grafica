@@ -1,0 +1,8 @@
+.hero-image {
+    width: 100vw;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+  }
+  

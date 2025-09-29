@@ -1,0 +1,33 @@
+.summary {
+    max-width: 42rem;          /* meno largo del precedente */
+    margin: -8rem auto 2rem auto;
+    padding: 1.5rem 1.5rem;   /* padding più contenuto */
+    background: #3f3f3f;
+    color: #fff;
+    border-radius: 0.8rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    position: relative;
+    z-index: 2;
+    line-height: 1.4;
+  }
+  
+  .summary {
+    max-width: 40rem; /* o il valore che preferisci */
+    margin: -8rem auto 2rem auto;
+    padding: 2.5rem 2rem;
+    background: #3f3f3f;
+    color: #fff;
+    border-radius: 1rem;
+    text-align: center;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6); /* ombra più scura e diffusa */
+    position: relative;
+    z-index: 2;
+  }
+  
+  
+  .summary-block p {
+    font-size: 1rem;
+    margin: 0.3rem 0;
+  }
+  
