@@ -1,18 +1,14 @@
+import React from 'react';
 import Header from './components/Header';
-import HeroImage from './components/HeroImage';
-import Summary from './components/Summary';
-import MealList from './components/MealList';
+import RoutesComponent from './components/Routes';
 
-function App() {
+const App: React.FC = () => {
   return (
     <>
       <Header />
-      <HeroImage />
-      <Summary />
-      <MealList />
-    
+      <RoutesComponent />
     </>
   );
-}
+};
 
 export default App;

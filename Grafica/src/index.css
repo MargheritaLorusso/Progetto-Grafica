@@ -27,7 +27,7 @@ body {
   display: flex;
   place-items: center;
   min-width: 320px;
-  background-color: #434343;
+  background-color: #ffffff;
   /* min-height: 100vh; mette la distanziatura per l'header, nn lo fa posizionare sopra*/
 }
 
